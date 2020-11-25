@@ -1,3 +1,7 @@
 # Intro-to-ML-Udacity-NanoDegree-Program
 
-Project files for the Introduction to Machine Learning Nanodegree Program with Udacity. More details regarding each project to follow once finalized.
+Project files for the Introduction to Machine Learning Nanodegree Program through Udacity. See each project folder for detailed README files.
+
+## 1. Finding Donors for CharityML Project
+
+## 2. Flower Image Classifier using Deep Neural Networks in PyTorch Project
