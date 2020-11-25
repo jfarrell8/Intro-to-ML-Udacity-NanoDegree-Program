@@ -4,4 +4,5 @@ In this project, I employed several supervised algorithms to accurately model in
 
 This sort of task can arise in a non-profit setting, where organizations survive on donations. Understanding an individual's income can help a non-profit better understand how large of a donation to request, or whether or not they should reach out to begin with. While it can be difficult to determine an individual's general income bracket directly from public sources, we can (as we will see) infer this value from other publically available features.
 
-
+## Analysis
+All analysis is performed in the Python notebook within this folder (finding_donors.ipynb).
