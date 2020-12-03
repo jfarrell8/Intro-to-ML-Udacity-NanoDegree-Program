@@ -5,3 +5,5 @@ Project files for the Introduction to Machine Learning Nanodegree Program throug
 ## 1. Finding Donors for CharityML Project
 
 ## 2. Flower Image Classifier using Deep Neural Networks in PyTorch Project
+
+## 3. Identify Customer Segments Project
